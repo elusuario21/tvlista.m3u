@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-id="ATBA3300030EZ" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Austrália
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RN84VgD.png" group-title="Variedades e notícias em italiano",Italian Fishing TV | Itália
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndCkouf.png" tvg-id="13873" group-title="Esportes em inglês",Trace Sport Stars | Austrália
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
