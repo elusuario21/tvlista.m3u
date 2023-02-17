@@ -1,8 +1,11 @@
-
 #EXTM3U
 
-#EXTINF:-1Cartoon Network
-https://dtvott-cbc.akamaized.net/dash_live_1037/dash/1037_CARTOONNETWORK-audio_122082_eng=121600
 
-#EXTINF:-1 ,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="ATBA3300030EZ" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Austrália
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndCkouf.png" tvg-id="13873" group-title="Esportes em inglês",Trace Sport Stars | Austrália
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
