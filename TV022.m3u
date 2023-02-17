@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1HBO
-e10.telerium.link:2052/free10/066/chunks.m3u8?
+#EXTINF:-1Cartoon Network
+https://dtvott-cbc.akamaized.net/dash_live_1037/dash/1037_CARTOONNETWORK-audio_122082_eng=121600.dash
 
 #EXTINF:-1 ,Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
