@@ -1,12 +1,10 @@
-
 #EXTM3U
 
-#EXTINF:-1 ,HBO
+#EXTINF:-1 ,CINEMAX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/51ed59e0-3268-4263-ba49-d20dd5fa20cd/5.m3u8
 
-#EXTINF:-1 ,MTV
+#EXTINF:-1 ,HBO
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62fbef771567211fdb82e91e/variant.m3u8?url=ec736220d34c142c21c3d694c6a30728-efe3c9a3e40d91f1b0c264aaede5719bbf75c6d5db9b69ad16ad3501c827005f9bd4c1ee60abfc077352dc5dac1d71f7e2db72b45d61139f477fede9a5baa12283acafbed0f2d7eeaf68b9f81b7b2fb6fb0b63363e1b6668c541e0417a21a4e381c50812a98275167e7d9b73b31fac338f8b3fc8640303493cd7d6f93db4b2af03b017b4fbcc0a04f84f83d8ab9f9d78332ee28a398b959ae8e62905bd9fc6652265d5eca400ede1edd2da4ec002942e4ad20cfb11e15d946846b6c7b3fe4c5a&x-plex-token=-st3YnK2zrWxMh8-FrvR
 
-
 #EXTINF:-1 ,FOX SPOT
-https://stream.ads.ottera.tv/cl/230218cfoj8a33r5vfb2rjppt0/1280x720_2300000_0_f.m3u8?i=475_46
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193/variant.m3u8?url=bc4c4aa5fdf024b3ae157468ecc918f3-7c3cd2b385a0fb5e201d3b1f280e71bc2fa3f4db8ff5f2b1471ef8539976811a58e86a1945d653256c7b0e569918bd91bdd378700eba05bba993eebd16c705f16832d84b5f7384c72a92e7a7c40e1b3c9dc9efcd6021e617e1a7af3edf4673a29afa4d4352bcf24b57f8aca0ea69314b&x-plex-token=-st3YnK2zrWxMh8-FrvR
