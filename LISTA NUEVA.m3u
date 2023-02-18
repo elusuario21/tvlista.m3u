@@ -1,11 +1,19 @@
 
 #EXTM3U
 
-#EXTINF:-1 ,CINEMAX
-https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/42_.m3u8?token=SvG18dxkWwz0KdWyKsxPcw&expires=1676768404
+#EXTINF:-1 ,HBO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/51ed59e0-3268-4263-ba49-d20dd5fa20cd/5.m3u8
 
-#EXTINF:-1 ,FX
-https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/70_.m3u8?token=nzGp8Kte7Uu7jZXNK3HDmQ&expires=1676768519
+#EXTINF:-1 ,MTV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3
+a63-6348a34c1159f6a5ce819b81/variant.m3u8?url=25d498c20cc1b963d6c5
+cb5236a6f0bc-5774dd873ef598c753d5678c301749fb8d9833413e9d4781325348d
+1d8f371bf62c417d7773671d412e7eb347a7c8876073eb8bd9fb03d493914413ad2e
+e70ff556794d18f12c0f444b677ca8da9285cf93160070290a7f49b9eedf3b228ac07
+4747c7c1eb908f2ba88362cca8020abc81b95c3590711f1b8b55c391b8638437a222a
+18ab2bc03df64339d7e9b0cedf70795d40fa8faa6d77bd2b2a7f9a18abc6b43a6a4eb8
+46e381c5ba06f874431aaf8876dc923f0f060bcfe1b352a74354c3fc8f52a28f4337105
+2266a2bb0a1d3f1e518a65a5738fc679e11c5114dea4f3&x-plex-token=-st3YnK2zrWxMh8-FrvR
 
 #EXTINF:-1 ,FOX SPOT
-https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/12_.m3u8?token=L6NmSTbTkIMa-N-K8_cO0A&expires=1676765284
+https://stream.ads.ottera.tv/cl/230218cfoj8a33r5vfb2rjppt0/1280x720_2300000_0_f.m3u8?i=475_46
