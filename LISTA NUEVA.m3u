@@ -2,11 +2,10 @@
 #EXTM3U
 
 #EXTINF:-1 ,CINEMAX
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/dash/CANAL5HD-video=3720000-1006049979712.dash?bpkout=default
+https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/42_.m3u8?token=SvG18dxkWwz0KdWyKsxPcw&expires=1676768404
 
-#EXTINF:-1 ,TNT
-https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/41_.m3u8?token=6qQWVZzwjuiBsKvOb3wdtg&expires=1676765435
+#EXTINF:-1 ,FX
+https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/70_.m3u8?token=nzGp8Kte7Uu7jZXNK3HDmQ&expires=1676768519
 
 #EXTINF:-1 ,FOX SPOT
 https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/12_.m3u8?token=L6NmSTbTkIMa-N-K8_cO0A&expires=1676765284
-
