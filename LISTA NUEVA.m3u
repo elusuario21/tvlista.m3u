@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,CINEMAX
-https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/43_.m3u8?token=VBjafAlGgLKJ1tFH1XRPnQ&expires=1676765182
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/dash/CANAL5HD-video=3720000-1006049979712.dash?bpkout=default
 
 #EXTINF:-1 ,TNT
 https://live.telelatinohd.com:8080/MTc3LjIzOS44OS4xNTA=/41_.m3u8?token=6qQWVZzwjuiBsKvOb3wdtg&expires=1676765435
