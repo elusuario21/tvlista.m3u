@@ -1,13 +1,49 @@
 #EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 ,HBO2
-https://video-weaver.phx01.hls.ttvnw.net/v1/playlist/Cv8EtC6iuTGiI37UGfnKQoJWKjLNVwdbia9Uq5qIXkpME7nxFLPv552SvCsRqsfj3ZJkHVb27MAghuo7zxUyqwjVP-UHwN1EgwDWANWQnQt6Ra_3OxOohzVh9WPl2M-sHNh2rk39ElS5OFzNdLbDSqEuJLvmvtvBX72wXso9oLIVJ1ISw6jnt440cz9hEiiCZh1sGv1CKT0iE-zuXh2M5nwOTct392L-KOs2p4sbyIPySW0nK7NBZxf_4EUxnQvS7JAx-oKW_G3_o0LkRveD446MyZk08UDcLRJBAe-ngZwLw5r_q6BIKya-GHFLPlmZK_vPaVUZxFPeV04fUVOc-v-wYjAgkmiBx9JF1Dc3OxXdKl2jH_NgpIXALdnW9eXlYydgQPOtmrcdwgjGXohdlPYghLhiwHll6mb_gEl72bIKH3einulREoEedBxdslhFXULJPdWz88eYva7vvet5eqwUrcLkmVf4iNy8Pkprg4XAeVrUwXRWRvUjc08cRLlnSJwEw-mr0gle8Kl3u6qtZsMzdV_wV8TBTbPNnsaaf0NUuMIIxgRkDOOoZOtfdlSUq-vVx14qy2Xj-TbCuvrC7YjoIh4kchRM8287_2xKNBimYO4R3PKZynVaxhLOxeEnADDKAiKdIH5reZAp_RTGt2hX56xCZR9ejpCfnCuczVtRnwZvK4oy-E3TBzGf9ZPeFkXgEQt86PeTrxIYNbyMF5b-osRRU7FzPwhkpbOSp0mszm2_tfpmA9XanpUpEh7SxQBSkxItYsjOKkaEG4jXHxksAcY48FNHYQy4lETeiT6AjbcdB0FN_mZKiBNCExgONYzpPVs5Vb-xgp-ckuS3zsN6Ggwj7ZXpBg4TTJtlIJ4gASoJZXUtd2VzdC0yMPsF.m3u8
-#EXTINF:-1 ,AXN
-https://video-weaver.phx01.hls.ttvnw.net/v1/playlist/CvcEj4Ns1w3a6waXl-_jvPoo5qqAVVOfB5nQT_Iu4uYrzdppe3sCiKimAi0H7ZaUc-atW46evlGTYGAkK00fS30Yt-ON5CvN4xRdSTG4bsO_7rRxwTMY6br0WFLCeMJl0iIQMglh2c_kOuovd_g6oXcJ0yXrz2OiG3F2teyuc8WoJwGiIYmYh2XcjBkSC-ik3uv6RQ31vxzSPwqoXbToY8cYoplcvUH5r8pl1EO02g_TTEIbOddIYKkdiBybV_LC2mVr1giVGycOoA6hZnvGap3Lt_yQD648mhVPoqvrgwGm7y2Ak9ij1Cg3fQG7R1pXapbBJkyHgFVX7REwKrCEdmhPs57Q8Q1JWtMZWnjnnt1aAr7OHkLyKBhHQmE-b6E9wYlblxKv6oP2MqMGUXcHMELcrkEnplOjRMobssWUHa6thb-O4i9CIlxxqUw1e68Ig2l94F24CpJ7Zcr1pukyuZl_IcfR3pVmCnYHtw4NVLXYL6ahle6QNstbGFntaBqsZ0tZ8_EkCnryWIGbqhynnp5n0ttPIKJKUwbOwBCOCGgLkvDeNg-d5HskjOtEhLLhrxwYoRxrKuxamMdCeZxi55PKH1PQKAcO8WWa2xoz9TDzJu25ITJ7JuLCD5TlnQKV4_-DHZt8BCeKRWp0BC6WqKahHLIo0ouLL6zoZnHpBg9wFqLTVbcwE3JUOyMcvNZhpfn0x0Yvtpa_Hz7D8OH4EY0HVaJBWgUmCQKoGpWBVLzkCKuS26ujK-In5zF5SffBPwT6Hq0mkFCUJrkFaMRDDyzH7_NSFYUnZu08QWP8XBCKcGsC7zOaIfhYZZfR5JRqt9PByTSqUgBhgxoM-6aXPib16_goRl4XIAEqCWV1LXdlc3QtMjD7BQ.m3u8
-#EXTINF:-1 ,CINEMAX2
-https://video-weaver.phx01.hls.ttvnw.net/v1/playlist/CvwEcazLdhMPnSsNb2y_qx0n3nOq9Oopjxk8Dywcm0ZICnZbE-FBcK0df-RrqZridBDwxc05lZrT1zlpxWrcxnYdDl6NlB3RpQx6ef6dCcHyOuwokw_lqo8PjP4OIB6V0bc8980cQLyy4XUoe7b-86veL0kABHrAySQNA1WtCJPBZoQVh50rvKl83UxP42S_uvkp6uJOD41NUPao-Ib6arDkmtBqRjPw6MkG4GclsNXIpWiapS0BschEAIiH5VTgF2OWsT4wmik7C5RxrjEMugg--mfADsVzOirwLWS0mJbfbH1npBbOzwwK8Hj17tdlBXQT0xrNApMdX8OFSXX6Ev9OS67l8ILXRS0EGABs-rHhi0dBzCKOHZQNafiu0hgo_1vPbp99J2CiFH4Nbl8opeWPSuYZFYjtagvwQAFEFPXTAW2ENeo9q65r3WJ5b6MnWK_zWAuOssLgAGiCpLCvIhuSxTbdQakklIRNZfxTrQRzmuo4vuIcW56iFAcbLrAE5wJReGuLvniLIWH1EjzC-srjp1eFr9reACBurhO9LG-JGcWDP6sEj7YNm3qiWGMe49banYRJT9X-b8o36gSAGAjYoeGhSsCLphXTruL91JowFf8pIgB7hmv00FtFhC0EJYTdjDEzVcmlopIMM72hF2X7LtiJ0iAK-2XCrLi5Z4EAIPU86R9os1dv3kO-0QnjHSvoD6eoYWMLtLr-siFusnlgOSYVxeAQc_JvdtjTlrM5022wctfElVijZRYNgb-lzVZMMZTZQiqZrlfsaONFX3GVeV0rbhhEuoE4817ZLrqI9T0AaN4Xu78wZfesy1rm4lsZn5YGZrnynhP1FKAWGgydFclLDthIhUsnTKwgASoJZXUtd2VzdC0yMPsF.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="MEXICO", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 
 
 
