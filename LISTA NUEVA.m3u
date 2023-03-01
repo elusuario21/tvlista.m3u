@@ -1,51 +1,12 @@
+
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", Canal Once IPN  Int. | HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
-http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="MEXICO", Canal del Congreso | SD
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-
-
+#EXTINF:-1 ,ASTECA7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 ,TELEMUNDO
+https://v-la.mybtv.net/live/267.m3u8
+#EXTINF:-1 ,TNTSPORT
+https://regioplay.xyz/php/SR_REGIO_322023_/nuevotv1.php?c=9&key=SrRegio&f=.m3u8
 
 
 
