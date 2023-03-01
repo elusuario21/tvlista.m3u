@@ -1,12 +1,12 @@
 
 #EXTM3U
 
-#EXTINF:-1 ,ASTECA7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 ,TELEMUNDO
-https://v-la.mybtv.net/live/267.m3u8
-#EXTINF:-1 ,TNTSPORT
-https://regioplay.xyz/php/SR_REGIO_322023_/nuevotv1.php?c=9&key=SrRegio&f=.m3u8
+#EXTINF:-1 ,TV PLEX 3
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193/variant.m3u8?url=27fdcd5dd009f59627614fb529c0e6b9-d82de145c915ee4c46a629823e8be6cc6f67415c14144e171adf41e4712f7898a35bc4e08afb55ef2cb637df357060e0c1b5484df70b64687b075fcbfaf512a5d715e8847e51bcb3b24b407efb9f0e8b72dbc6f2ef92588ac393c178f97ab9ddc1cf1f18b4820578afa45e0c6e20d9e8&x-plex-token=skVREJvZMsn83ToZjNFZ
+#EXTINF:-1 ,TV PLEX 02
+https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_iio43o62/v/1/pv/1/ev/10/flavorId/1_6i7tw3yz/clipFrom/0/clipTo/480000/name/a.mp4/index.m3u8/seg-65-v1-a1.ts
+#EXTINF:-1 ,TV PLEXX 66
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=b9d61a9f-b454-5525-ac84-b19182aee493&ads.targetopt=0&ads.plex_token=skVREJvZMsn83ToZjNFZ&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36%20OPR%2F95.0.0.0&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 
 
 
